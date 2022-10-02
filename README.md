@@ -24,3 +24,6 @@ Project Dependencies :
 https://fontawesome.com
 - Google Fonts: 
 https://fonts.google.com/specimen/Poppins
+
+Design inspiration:
+- https://www.pinterest.com/pin/855895104191175280/
