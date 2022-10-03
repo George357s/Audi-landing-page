@@ -1,5 +1,6 @@
 # Audi-landing-page
 Responsive Audi landing page built with HTML5, CSS3, and vanilla Js.
+
 A sleek and modern landing page with couters and animations. Some of the things I learned from this project was 
 how to:
 
